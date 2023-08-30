@@ -9,4 +9,4 @@ Foram efetuadas alterações simples para efeitos da atividades. A saber:
 * Mensagem exibida na tela
 * Esquema geral de cores
 
-![Print de virtualização da aplicação](https://github.com/vscandeira/dio_lab_my_app_flutter/blob/main/resources/print_virtualizacao.png)
+![Print de virtualização da aplicação](resources/print_virtualizacao.png)
